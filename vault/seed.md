@@ -11,3 +11,5 @@ nav_exclude_children: true
 This is a page. Plant it and watch it grow.
 
 [[seed.child]]
+
+![[seed.child]]
